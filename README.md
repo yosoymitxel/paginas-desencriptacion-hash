@@ -40,5 +40,13 @@
 * https://www.md5hashgenerator.com/
 * https://www.fileformat.info/tool/hash.htm
 
+## Esteganografía
+* https://www.esteganografia.com/
+* https://futureboy.us/stegano/decinput.html
+* https://www.beautifyconverter.com/steganographic-decoder.php
+* https://www.edchart.com/free-online-converters/steganographic-decoder.php
+* https://www.pelock.com/products/steganography-online-codec
+* https://stuffjackmakes.com/steganography-online
+
 ## Otros 
 * https://underc0de.org/foro/herramientas-hacking/?PHPSESSID=8fgt7chuggi8t1o0bqgii9dlrl
