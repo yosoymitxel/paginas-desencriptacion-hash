@@ -45,8 +45,12 @@
 * https://futureboy.us/stegano/decinput.html
 * https://www.beautifyconverter.com/steganographic-decoder.php
 * https://www.edchart.com/free-online-converters/steganographic-decoder.php
+* https://stego.js.org/
 * https://www.pelock.com/products/steganography-online-codec
 * https://stuffjackmakes.com/steganography-online
+* https://manytools.org/hacker-tools/steganography-encode-text-into-image/
+* https://supremepanda.github.io/fractal-image-steganography/
+* https://georgeom.net/StegOnline/image
 
 ## Otros 
 * https://underc0de.org/foro/herramientas-hacking/?PHPSESSID=8fgt7chuggi8t1o0bqgii9dlrl
